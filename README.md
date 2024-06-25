@@ -28,7 +28,8 @@ pip install -r requirements.txt
 streamlit run client.py
 ```
 ### Usage 
-Upon launching the Directory Synchronizer, you will be greeted with a user-friendly interface where you can select the operation you wish to perform from a dropdown menu. The available options are:
+Upon launching the synchronizer, you will be greeted with a user-friendly interface where you can select the operation you wish to perform from a dropdown menu. 
+The available options are:
 
 - List directory contents
 - Copy to local Directory
